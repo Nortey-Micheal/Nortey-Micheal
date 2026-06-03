@@ -1,28 +1,64 @@
-Hi, I'm Michael 👋
+# Hi, I'm Michael Nortey 👋
 
-Full-stack engineer crafting reliable, performant software from Accra, Ghana.
+Software Engineer | Full Stack Developer | Tech Entrepreneur
 
-Currently deep in:
-- TypeScript + Next.js (App Router & Server Components)
-- Go for efficient, scalable backends
-- PostgreSQL + modern ORMs (Drizzle / Prisma)
-- Edge & serverless architectures
+I'm a software engineering student and full stack developer passionate about building scalable web and mobile applications that solve real-world problems.
 
-Passionate about:
-- Clean, maintainable code
-- Great developer experience
-- Open source contributions
-- Teaching & sharing knowledge
+My primary focus is on developing digital platforms that create impact, particularly in education and business. I enjoy transforming ideas into functional products, from planning and system design to development, deployment, and continuous improvement.
 
-Always experimenting with:
-Rust • Distributed systems • WASM
+## 🚀 What I'm Working On
 
-Previously: [Add 1-2 highlights if relevant, e.g. "Built scalable systems at XYZ" or "Contributed to ABC open-source project"]
+- Building a tutor-student matching platform that connects tutors, students, parents, adult learners, and educational institutions.
+- Exploring AI engineering and intelligent software systems.
+- Creating modern web applications with a strong focus on user experience, scalability, and maintainability.
+- Developing software products under a long-term vision of building a technology company that manages multiple digital solutions.
 
-Open to interesting collaborations, freelance opportunities, or just geeking out over tech stacks ☕
+## 💻 Tech Stack
 
-Let's create something impactful together! ✌🏾
+### Frontend
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
 
-📍 Accra, Ghana  
-✉️ michael@example.com  
-🔗 [twitter/x.com/yourhandle] • [linkedin.com/in/yourname]
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+
+### Database
+- MongoDB
+- Mongoose
+
+### Tools & Platforms
+- Git & GitHub
+- Linux
+- Vercel
+- Sanity CMS
+
+## 🎯 Interests
+
+- Full Stack Development
+- Software Architecture
+- Artificial Intelligence
+- Product Development
+- Educational Technology
+- Startup Building
+
+## 📚 Currently Learning
+
+- Advanced system design
+- Distributed systems
+- AI engineering
+- Scalable backend architectures
+
+## 🌱 Philosophy
+
+I believe great software is not just about writing code—it's about solving meaningful problems, creating value for users, and building systems that can grow over time.
+
+## 📫 Connect With Me
+
+Feel free to explore my repositories, contribute, or connect with me for collaboration opportunities.
+
+> Building products. Solving problems. Creating impact.
