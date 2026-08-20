@@ -30,12 +30,14 @@ My primary focus is on developing digital platforms that create impact, particul
 ### Database
 - MongoDB
 - Mongoose
+- PostgreSQL
 
 ### Tools & Platforms
 - Git & GitHub
 - Linux
 - Vercel
 - Sanity CMS
+- SonarQube
 
 ## 🎯 Interests
 
